@@ -1,0 +1,12 @@
+body{
+    justify-content: center;
+    text-align: center;
+}
+
+#mybutton{
+    font-size: xx-large ;
+    border-radius: 5px;
+}
+.Labels{
+    font-size: 2em;
+}
